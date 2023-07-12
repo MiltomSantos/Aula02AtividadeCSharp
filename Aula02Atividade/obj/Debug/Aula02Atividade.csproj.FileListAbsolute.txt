@@ -1,0 +1,10 @@
+C:\Users\miltom.snascimento\source\repos\Aula02Atividade\Aula02Atividade\bin\Debug\Aula02Atividade.exe.config
+C:\Users\miltom.snascimento\source\repos\Aula02Atividade\Aula02Atividade\bin\Debug\Aula02Atividade.exe
+C:\Users\miltom.snascimento\source\repos\Aula02Atividade\Aula02Atividade\bin\Debug\Aula02Atividade.pdb
+C:\Users\miltom.snascimento\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.csproj.AssemblyReference.cache
+C:\Users\miltom.snascimento\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.Form1.resources
+C:\Users\miltom.snascimento\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.Properties.Resources.resources
+C:\Users\miltom.snascimento\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.csproj.GenerateResource.cache
+C:\Users\miltom.snascimento\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.csproj.CoreCompileInputs.cache
+C:\Users\miltom.snascimento\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.exe
+C:\Users\miltom.snascimento\source\repos\Aula02Atividade\Aula02Atividade\obj\Debug\Aula02Atividade.pdb
